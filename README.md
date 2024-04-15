@@ -303,7 +303,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![Screenshot (198)](https://github.com/chandrumathiyazhagan/EX_5_SIMPLE-CALCULATOR_GIT/assets/119393023/a56ced9e-b79c-4d80-bd47-2e348520bc2e)
+![image](https://github.com/Danielmanoj/EX_5_SIMPLE-CALCULATOR_GIT/assets/69635071/10e4b2b3-1442-4b27-8a4c-f3aae9357887)
+
 
 ## RESULT:
 
